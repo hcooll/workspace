@@ -12,3 +12,5 @@ Just for git study.
 这是Reset测试
 
 测试一下从远程仓库拉取代码
+
+练习一下分支管理
