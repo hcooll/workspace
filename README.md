@@ -10,3 +10,5 @@ Just for git study.
 有点烦,
 
 这是Reset测试
+
+测试一下从远程仓库拉取代码
